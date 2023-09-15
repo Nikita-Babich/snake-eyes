@@ -1,14 +1,15 @@
-# Write-up for the Snake Eyes prediction market on Manifold Markets
+ Write-up for the Snake Eyes prediction market on Manifold Markets
 
 
-## Introduction
+# Introduction
 
 The market creator made around 35 updates to the description of the market. All updates are an attempt to propose a specific method for solution of the problem, but impartial market creator is not supposed to restrict to only one method (incorrect one), if he truly seeks for truth.
 In the Description of the market I omitted the part which contains candidate write-ups and links to related markets.
 
-### Header of the question
+## Header of the question
+Is the probability of dying in the Snake Eyes Paradox 1/36?
 
-### Description of the question
+## Description of the question
 You're offered a gamble where a pair of six-sided dice are rolled and unless they come up snake eyes you get a bajillion dollars. If they do come up snake eyes, you're devoured by snakes.
 
 So far it sounds like you have a 1/36 chance of dying, right?
@@ -43,9 +44,21 @@ PS: To expand on FAQ8, "probability zero" and "impossible" are mathematically di
 Resolution criteria
 For an official resolution we'll write up a proof (or "proof") that the answer is 1/36 and a proof that the answer is ~1/2 (really anything greater than 1/36 would be fine) and then recruit some mathematician(s) to make an independent judgment on which is correct. Or maybe we'll just reach consensus in the comments?
 
-## Solution
+# Solution
 
-### Program
+## "Tree" approach or infinite sum series
 
-## Mistakes of the opposing side
+## Program
+
+# Mistakes of the opposing side
+
+## "Equiprobability" common misconception
+
+## Program suggested by the market creator
+
+### Listing
+
+### Mistakes of the market creator's program
+
+# Answering questions of the opposing side
 
