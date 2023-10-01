@@ -2,14 +2,12 @@
 
 
 # Introduction
+The following is the question proposed by @Dreev on Manifold Markets website. I, Kongo Landwalker (not a rel name), represent "NO" side. My aim in this paper is to show that the probability of dying with the given procedure is not 1/36. I will show my solution and then discuss the mistakes regularly repeated by the "YES" side.
 
-The market creator made around 35 updates to the description of the market. All updates are an attempt to propose a specific method for solution of the problem, but impartial market creator is not supposed to restrict to only one method (incorrect one), if he truly seeks for truth.
-In the Description of the market I omitted the part which contains candidate write-ups and links to related markets.
+## Statement of the problem
 
-## Header of the question
 Is the probability of dying in the Snake Eyes Paradox 1/36?
 
-## Description of the question
 You're offered a gamble where a pair of six-sided dice are rolled and unless they come up snake eyes you get a bajillion dollars. If they do come up snake eyes, you're devoured by snakes.
 
 So far it sounds like you have a 1/36 chance of dying, right?
@@ -21,10 +19,10 @@ At some point one of those groups will be devoured by snakes and then I stop.
 Is the probability that you'll die, given that you're chosen to play, still 1/36?
 
 Argument for NO
-Due to the doubling, the final group of people that die is slightly bigger than all the surviving groups put together. So if you're chosen to play you have about a 50% chance of dying! 😬 🐍 
+Due to the doubling, the final group of people that die is slightly bigger than all the surviving groups put together. So if you're chosen to play you have about a 50% chance of dying! 
 
 Argument for YES
-The dice rolls are independent and whenever you're chosen, whatever happened in earlier rounds is irrelevant. Your chances of death are the chances of snake eyes on your round: 1/36. 😅
+The dice rolls are independent and whenever you're chosen, whatever happened in earlier rounds is irrelevant. Your chances of death are the chances of snake eyes on your round: 1/36. 
 
 Clarifications and FAQ
 1. The game is not adversarial and the dice rolls are independent and truly random.
@@ -44,6 +42,10 @@ PS: To expand on FAQ8, "probability zero" and "impossible" are mathematically di
 Resolution criteria
 For an official resolution we'll write up a proof (or "proof") that the answer is 1/36 and a proof that the answer is ~1/2 (really anything greater than 1/36 would be fine) and then recruit some mathematician(s) to make an independent judgment on which is correct. Or maybe we'll just reach consensus in the comments?
 
+## My comment to the description updates
+The market creator made around 35 updates to the description of the market. All updates are an attempt to propose a specific method for solution of the problem, but impartial market creator is not supposed to restrict to only one method (incorrect one), if he truly seeks for truth.
+In the Description of the market I omitted the part which contains candidate write-ups and links to related markets.
+
 # Solution
 
 ## "Tree" approach or infinite sum series
@@ -59,6 +61,9 @@ For an official resolution we'll write up a proof (or "proof") that the answer i
 ### Listing
 
 ### Mistakes of the market creator's program
+
+# Resolution variants
+
 
 # Answering questions of the opposing side
 
